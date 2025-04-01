@@ -57,8 +57,7 @@ This is a modern **E-Commerce Website** built with React, TypeScript, and Tailwi
 | `npm run preview` | Previews the production build |
 | `npm run lint` | Runs ESLint to check for errors |
 
-## 📸 Screenshots
-_(Add relevant screenshots here)_
+
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
@@ -67,5 +66,5 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to fork this repository, open issues, and submit pull requests!
 
 ## 📬 Contact
-For any questions, reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any questions, reach out to me at [your-email@example.com](mailto:priyanshupandey92@gmail.com).
 
