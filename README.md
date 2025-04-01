@@ -66,5 +66,5 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to fork this repository, open issues, and submit pull requests!
 
 ## 📬 Contact
-For any questions, reach out to me at [your-email@example.com](mailto:priyanshupandey92@gmail.com).
+For any questions, reach out to me at [priyanshupandey92@gmail.com](mailto:priyanshupandey92@gmail.com).
 
